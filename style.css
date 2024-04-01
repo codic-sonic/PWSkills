@@ -1,0 +1,582 @@
+.header {
+  padding: 20px 0 0;
+}
+
+.header img {
+  width: 100%;
+}
+
+.form-group {
+  margin: 10px 0 0;
+}
+
+.form-group input {
+  padding: 20px;
+}
+
+.login {
+  padding: 10px 20px;
+  margin-top: 10px;
+}
+
+.head-menu {
+  margin: 20px 0;
+}
+
+.head-menu .heading {
+  width: 16.5%;
+  font-size: 16px;
+}
+
+.head-menu .heading a {
+  color: #3d3d3d !important;
+  font-weight: 600;
+  padding: 0;
+}
+
+.mar-0 {
+  margin-right: 0 !important;
+}
+
+.courses {
+  background-color: rgb(245 245 245);
+  padding: 60px 0;
+}
+
+.image-sec img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.navigator {
+  width: 80%;
+}
+
+.navigator p {
+  color: #757575;
+  font-size: 16px;
+}
+
+.navigator h1 {
+  font-weight: 700;
+}
+
+.breadcrumb {
+  padding: 0;
+}
+
+.breadcrumb li a {
+  color: #3d3d3d;
+}
+
+.breadcrumb > li + li:before {
+  padding: 0;
+  color: #ccc;
+  content: ">\00a0";
+}
+
+.image-sec {
+  position: relative;
+}
+
+.play-icon {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.play-icon img {
+  width: 40px;
+  background: #fff;
+  border-radius: 100%;
+  padding: 10px;
+}
+
+.navigator h2 span {
+  text-decoration: line-through;
+  font-size: 23px;
+  color: #757575;
+}
+
+.info p {
+  color: #bf2735;
+}
+
+.orange {
+  color: #fff;
+  background: #e97862;
+  padding: 10px 50px;
+  font-size: 16px;
+}
+
+.orange-light {
+  color: #e97862;
+  background: #f8d0c4;
+  padding: 10px 70px;
+  font-size: 16px;
+  margin-left: 20px;
+}
+
+.emi {
+  margin-top: 10px;
+}
+
+.box {
+  background-color: #fff;
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 9px -3px;
+}
+
+.content h4 {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.content p {
+  color: #757575;
+}
+
+.box-transparent {
+  padding: 40px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.box-transparent .content h4 {
+  font-size: 18px;
+}
+
+.img {
+  width: 60px;
+  margin: 0 auto;
+}
+
+.bg-color.red {
+  background-color: #fee7e9;
+}
+
+.bg-color.yellow {
+  background-color: #fff6e5;
+}
+
+.bg-color.green {
+  background-color: #e3efe0;
+}
+
+.bg-color.blue {
+  background-color: #c9f1fe;
+}
+
+.bg-color {
+  padding: 12px 14px;
+  border-radius: 100%;
+}
+
+.course-offering {
+  margin-top: 80px;
+}
+.course-offering p{
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+.course-offering h1 {
+  margin-bottom: 50px;
+}
+
+.course-offering img {
+  width: 72px;
+}
+
+.content {
+  padding: 20px;
+}
+
+.border-sec {
+  border-left: 1px solid #cdcdcd;
+  border-bottom: 1px solid #cdcdcd;
+}
+
+.brdr-btm {
+  border-bottom: 1px solid #cdcdcd;
+}
+
+.brdr-btm-0 {
+  border-bottom: 0;
+}
+
+.owl-carousel .owl-item img {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  height: 60px;
+}
+
+.item {
+  box-shadow: 0 4px 28px -17px #000;
+  margin: 20px 10px;
+  border-radius: 20px;
+}
+
+.img-box {
+  padding: 20px;
+}
+
+.master {
+  margin-top: 100px;
+}
+
+.owl-nav i {
+  color: #f89939;
+  box-shadow: 0 4px 28px -11px #000;
+  padding: 10px;
+  border-radius: 100%;
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+.box-shad {
+  box-shadow: 0 4px 28px -21px #000;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.row-mar {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.pad-set1 {
+  margin-top: 15px;
+  margin-right: 15px;
+  width: 49%;
+}
+
+.pad-set2 {
+  margin-top: 15px;
+  width: 48.5%;
+  float: right;
+}
+
+.cn-sec p {
+  color: #757575;
+}
+
+.cn-sect {
+  display: inline-block;
+  width: 52%;
+  vertical-align: top;
+}
+
+.im-sec {
+  display: inline-block;
+}
+
+.build h1 {
+  margin: 90px 0 60px;
+}
+
+.certificate {
+  background-image: url("https://pwskills.com/images/courseDescription/CertificateBackground.png");
+  color: #fff;
+  padding: 80px 0;
+}
+
+.certificate .heading p {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.certificate .heading p svg {
+  width: 50px;
+  vertical-align: middle;
+}
+
+.cont {
+  color: #edb84f;
+}
+
+.cont p {
+  font-size: 16px !important;
+  font-style: italic;
+  margin: 30px 0;
+}
+
+.cont h4 {
+  text-decoration: underline;
+  margin: 30px 0;
+  font-size: 20px;
+  font-weight: 800;
+  text-underline-offset: 5px;
+}
+
+.cont ul {
+  padding: 0 10px;
+  color: #fff !important;
+}
+
+.img-section-cert {
+  position: relative;
+}
+
+.img-section-cert img {
+  width: 100%;
+}
+
+.overlap-img {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -10%);
+}
+
+.overlap-img img {
+  width: 268px !important;
+  height: 378px;
+}
+
+.image-sec-container img {
+  width: 14%;
+  object-fit: contain;
+  margin: 10px 20px;
+}
+
+.image-sec-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.alumni h1 {
+  font-size: 32px;
+  margin: 60px 0;
+}
+
+.value-container {
+  padding: 20px 20px;
+  margin-bottom: 50px;
+  border-radius: 12px;
+}
+
+.blue {
+  background: #dae8f8;
+}
+
+.green {
+  background: #d4f4d8;
+}
+
+.red {
+  background: #f9dbe6;
+}
+
+.yellow {
+  background: #f4eac7;
+}
+
+.value-container h4 {
+  font-size: 20px;
+  font-weight: 800;
+  margin: 4px 0 2px;
+}
+
+.value-container .media img {
+  width: 50px;
+  background: #fff;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.value-container p {
+  font-size: 16px;
+  color: #3d3d3d;
+}
+
+/*--------------------------------------------------------------
+# Colored strip Content
+--------------------------------------------------------------*/
+
+.mid-section {
+  padding-top: 6rem !important;
+  padding-bottom: 6rem !important;
+}
+
+.counsellor {
+  background-image: url(https://pwskills.com/images/courseDescription/wave-blue.svg);
+  background-repeat: no-repeat;
+  background-color: #c9f1fe;
+  padding-top: 8rem !important;
+  padding-bottom: 8rem !important;
+  position: relative;
+  padding-left: 15rem;
+  padding-right: 5rem;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+.green {
+  background-color: #c0d3bb;
+}
+.counsellor h3 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.5rem;
+  font-family: Inter, sans-serif;
+  --tw-text-opacity: 1;
+  color: rgb(61 61 61 / var(--tw-text-opacity));
+}
+.counsellor p {
+  display: inline-block;
+}
+.outer {
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+  font-family: Inter, sans-serif;
+  --tw-text-opacity: 1;
+  color: rgb(117 117 117 / var(--tw-text-opacity));
+}
+.counsellor b {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.5rem;
+  font-family: Inter, sans-serif;
+  --tw-text-opacity: 1;
+  color: rgb(61 61 61 / var(--tw-text-opacity));
+}
+
+.green b {
+  color: #336b25;
+}
+.counsellor button {
+  color: white;
+  display: flex;
+  text-transform: none;
+  opacity: 1;
+  border: 0;
+  font-size: 1.5rem;
+  justify-content: center;
+  font-family: Nunito Sans, sans-serif;
+  cursor: pointer;
+  background: #257793;
+  font-weight: 600;
+  gap: 0.5rem;
+  border-radius: 0.5rem;
+  padding: 1.5rem 1.5rem 1.5rem 1.5rem;
+}
+.green button {
+  background: #25471c;
+}
+.counsellor header {
+  padding-bottom: 3%;
+}
+
+.blue-semi {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.yellow-semi {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+.counsellor-img {
+  position: absolute;
+  bottom: 0;
+  right: 10%;
+  max-width: 238px;
+}
+.counsellor-img img {
+  max-width: 100%;
+  height: auto;
+}
+.semi-top {
+  position: absolute;
+  top: 0;
+  right: 35%;
+}
+
+.arrow {
+  position: absolute;
+  left: 25%;
+  top: 52%;
+}
+
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+
+footer {
+  font-family: Nunito Sans, sans-serif;
+  --tw-bg-opacity: 1;
+  background-color: rgb(27 33 36 / var(--tw-bg-opacity));
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  font-size: 18px;
+}
+
+footer a {
+  display: inline-block;
+}
+footer h4 {
+  font-weight: 600;
+  color: white;
+  font-family: Inter, sans-serif;
+}
+footer p {
+  --tw-text-opacity: 1;
+  color: rgb(193 198 206 / var(--tw-text-opacity));
+}
+
+.orange-line {
+  border-radius: 0.125rem;
+  height: 0.25rem;
+  display: inline-block;
+  top: 2.5rem;
+  position: absolute;
+  color: rgb(233 120 98);
+  border: 3px solid rgb(233 120 98);
+  border-radius: 5px;
+  width: 80%;
+}
+footer .row {
+  margin: 10 10;
+  margin-top: 80px;
+}
+.foot-container {
+  padding-bottom: 100px;
+}
+.icons{
+    width: 2.5rem;
+    height: 2.5rem;
+}
+footer ul{
+    line-height: 1.5rem;
+    list-style: none;
+    margin: 0;
+}
+footer li{
+    gap: .5rem;
+    align-items: center;
+    display: flex;
+    margin-top: 1rem;
+}
+.bottom-icon{
+    width: 3.5rem;
+    height: 3.5rem;
+    display: inline-block;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+.iso-icon{
+    width: 8rem;
+    margin-top: 2rem;
+
+}
